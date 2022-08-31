@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devopsenthusiast1792" alt="devopsenthusiast1792" /></a> </p>
 
-- 📫 How to reach me **deepakyadav94125@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/deepak-yadav-538795199**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
