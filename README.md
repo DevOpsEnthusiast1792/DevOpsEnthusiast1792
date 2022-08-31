@@ -16,3 +16,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devopsenthusiast1792&show_icons=true&locale=en&layout=compact" alt="devopsenthusiast1792" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devopsenthusiast1792&show_icons=true&locale=en" alt="devopsenthusiast1792" /></p>
+
+![](https://github-readme-stats.vercel.app/api?username=DevOpsEnthusiast1792&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DevOpsEnthusiast1792&theme=jolly&hide_border=false)<br/>
